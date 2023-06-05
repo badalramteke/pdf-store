@@ -144,6 +144,7 @@ input{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     margin-top:100px;
     box-shadow:5px 10px #00ADB5;
+    height:60vh;
 
    
 }
@@ -153,6 +154,7 @@ input{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     margin-top:100px;
     box-shadow:5px 10px #00ADB5;
+     height:60vh;
 
 
 }
@@ -161,6 +163,7 @@ input{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     margin-top:100px;
     box-shadow:5px 10px #00ADB5;
+     height:60vh;
 
     
 }
@@ -169,6 +172,7 @@ input{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     margin-top:100px;
     box-shadow:5px 10px #00ADB5;
+     height:60vh;
 }
 
 
